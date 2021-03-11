@@ -36,6 +36,11 @@ public class MainActivity extends AppCompatActivity {
             case "4":
                 intent = new Intent(this, Excercise4.class);
                 startActivity(intent);
+                break;
+            case "5":
+                intent = new Intent(this, RealActivity.class);
+                startActivity(intent);
+                break;
             default:
                 TextView text = findViewById(R.id.textView);
                 text.setText("Ejercicio no encontrado");
