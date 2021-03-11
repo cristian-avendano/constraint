@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">constraint</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+
+    <string name="texto">Seleccione el ejercicio</string>
+    <string-array name="exe">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
